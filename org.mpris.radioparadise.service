@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=org.mpris.spotify
+Exec=/home/jdahlin/dev/personal/radioparadise/radio-paradise.py
